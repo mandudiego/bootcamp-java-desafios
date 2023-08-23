@@ -18,7 +18,7 @@ public class TerminalAccount {
 		
 		System.out.println("Hello " + name + ", thanks for creating an account at our bank, "
 				+ "your branch are " + bankBranch + ", account " + accountNumber + " and "
-						+ "your balance " + balance + " is now available for withdraw");
+				+ "your balance " + balance + " is now available for withdraw");
 		
 		
 		sc.close();
